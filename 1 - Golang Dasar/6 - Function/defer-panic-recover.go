@@ -45,7 +45,7 @@ func main() {
 		3. Saat Panic function dipanggil, program akan langsung dihentikan namun defer function tetap akan dieksekusi.
 
 		-- Recover
-		1. Recover function adalah function yang bisa kita gunakan untuk menangani error pada saat program kita berjalan.
+		1. Rec over function adalah function yang bisa kita gunakan untuk menangani error pada saat program kita berjalan.
 		2. Recover function juga bisa kita gunakan untuk menangkap data panic.
 		3. Dengan recover proses panic akan terhenti, sehingga program akan tetap berjalan.
 	*/
